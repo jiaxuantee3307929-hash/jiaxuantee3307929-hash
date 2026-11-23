@@ -137,6 +137,9 @@
 <!-- ACADEMIC JOURNEY -->
 
 <h2 align="center">✦ ACADEMIC & LEARNING JOURNEY ✦</h2>
+<p align="center">
+  <img src="./assets/orbit-planet.svg" width="210" alt="Orbit Planet Animation"/>
+</p>
 
 <table align="center">
   <tr>
@@ -156,7 +159,9 @@
 <!-- EXPERIENCE -->
 
 <h2 align="center">✦ EXPERIENCE & ACTIVITIES ✦</h2>
-
+<p align="center">
+  <img src="./assets/rpg-card.svg" width="210" alt="RPG Character Card"/>
+</p>
 <h3>🎓 NALI 2026 — New Academia Learning Innovation</h3>
 
 <p>
