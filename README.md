@@ -259,12 +259,10 @@
   <img src="https://komarev.com/ghpvc/?username=jiaxuantee3307929-hash&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge"/>
 </p>
 
-<!-- THANK YOU -->
+<!-- THANK YOU WAVE FOOTER -->
 
-<h2 align="center">
-  ✦ THANK YOU FOR VISITING! ✦
-</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=footer&text=THANK%20YOU!&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling"
+  width="100%"
+  alt="Thank You Footer"
+/>
