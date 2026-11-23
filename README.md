@@ -177,12 +177,12 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UTM-Bachelor%20of%20Computer%20Science-8B5CF6?style=for-the-badge"/>
+  <b>Universiti Teknologi Malaysia</b><br/>
+  Computer Networks and Security with Honours
 </p>
 
 <p align="center">
-  <b>Universiti Teknologi Malaysia</b><br/>
-  Computer Networks and Security with Honours
+  <img src="https://img.shields.io/badge/UTM-Bachelor%20of%20Computer%20Science-8B5CF6?style=for-the-badge"/>
 </p>
 
 <p align="center">
