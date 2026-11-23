@@ -195,9 +195,6 @@
   Visited the NALI 2026 event and interviewed competition participants,
   gaining exposure to innovative learning approaches and educational projects.
 </p>
-<br>
-<br>
-<br>
 
 <h3>🖥️ PC Assembly</h3>
 
@@ -213,13 +210,12 @@
   Explored AI-assisted video creation, visual storytelling and creative
   digital content production.
 </p>
-
+<br>
+<br>
+<br>
 <p align="center">
   ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
 </p>
-<br>
-<br>
-<br>
 
 <!-- EDUCATION -->
 
@@ -264,6 +260,9 @@
     </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 <!-- CONNECT -->
 
