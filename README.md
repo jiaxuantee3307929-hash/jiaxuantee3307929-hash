@@ -68,7 +68,7 @@
 <!-- MATRIX RAIN -->
 
 <p align="center">
-  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix Digital Rain"/>
+  <img src="./matrix-rain.gif" width="100%" alt="Matrix Digital Rain"/>
 </p>
 
 <!-- SKILLS -->
