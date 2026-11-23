@@ -30,10 +30,10 @@
   </a>
 </p>
 <br>
-<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3"/>
 </p>
+<br>
 <br>
 
 <!-- ABOUT ME -->
@@ -72,7 +72,7 @@
 <br>
 <br>
 <br>
-<br>
+
 <!-- SKILLS -->
 
 <h2 align="center">✦ SKILLS & TECHNOLOGIES ✦</h2>
@@ -91,7 +91,9 @@
   <b>Tools</b><br/>
   Git · GitHub · Visual Studio Code
 </p>
-
+<br>
+<br>
+<br>
 <!-- INTERESTS -->
 
 <h2 align="center">✦ AREAS OF INTEREST ✦</h2>
@@ -120,6 +122,9 @@
     </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 <!-- BEYOND THE CODE -->
 
@@ -143,6 +148,9 @@
   Interested in the creative side of technology, digital media,
   and visual communication.
 </p>
+<br>
+<br>
+<br>
 
 <!-- ACADEMIC JOURNEY -->
 
@@ -165,6 +173,9 @@
     </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 <!-- EXPERIENCE -->
 
@@ -184,6 +195,9 @@
   Visited the NALI 2026 event and interviewed competition participants,
   gaining exposure to innovative learning approaches and educational projects.
 </p>
+<br>
+<br>
+<br>
 
 <h3>🖥️ PC Assembly</h3>
 
@@ -203,6 +217,9 @@
 <p align="center">
   ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
 </p>
+<br>
+<br>
+<br>
 
 <!-- EDUCATION -->
 
@@ -221,6 +238,9 @@
   <img src="https://img.shields.io/badge/Matriculation-CGPA%204.00-EC4899?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MUET-Band%204-06B6D4?style=for-the-badge"/>
 </p>
+<br>
+<br>
+<br>
 
 <!-- GITHUB ANALYTICS -->
 
