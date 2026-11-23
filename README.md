@@ -163,8 +163,6 @@
 
 <br/>
 
-<!-- ACADEMIC JOURNEY -->
-
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -182,8 +180,6 @@
 </table>
 
 <br/>
-
-<!-- EDUCATION & ACHIEVEMENTS -->
 
 <table width="100%" align="center">
   <tr>
@@ -212,6 +208,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <br>
 <br>
