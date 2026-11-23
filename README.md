@@ -176,6 +176,7 @@
   </tr>
 </table>
 
+<p align="center">
   <img src="https://img.shields.io/badge/UTM-Bachelor%20of%20Computer%20Science-8B5CF6?style=for-the-badge"/>
 </p>
 
