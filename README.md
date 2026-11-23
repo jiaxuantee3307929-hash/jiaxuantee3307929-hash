@@ -177,6 +177,7 @@
 </table>
 
 <!-- Education & Academic Achievements -->
+<!-- Education & Academic Achievements -->
 <table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
     <col width="50%"/>
