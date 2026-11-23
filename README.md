@@ -176,29 +176,43 @@
   </tr>
 </table>
 
-<p align="center">
-  <br/>
-  <strong>🎓 UNIVERSITI TEKNOLOGI MALAYSIA</strong>
-  <br/>
-  <sub>Computer Networks and Security with Honours</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</p>
-
 <br/>
 
-<!-- Academic Achievements -->
-<p align="center">
-  <strong>✦ ACADEMIC ACHIEVEMENTS ✦</strong>
-</p>
+<table width="100%">
+  <tr>
+    <!-- Left: Education -->
+    <td width="50%" align="center" valign="middle">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
-</p>
+      <h3>🎓 EDUCATION</h3>
+
+      <strong>Universiti Teknologi Malaysia</strong>
+      <br/>
+      <sub>Computer Networks and Security with Honours</sub>
+
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge"/>
+
+    </td>
+
+    <!-- Right: Achievements -->
+    <td width="50%" align="center" valign="middle">
+
+      <h3>✦ ACADEMIC ACHIEVEMENTS</h3>
+
+      <br/>
+
+      <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
+
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <br/>
 <br>
