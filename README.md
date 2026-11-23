@@ -136,23 +136,28 @@ Exploring data processing, databases and data infrastructure.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:06B6D4&height=3" width="100%"/>
 
-<!-- EXPERIENCE -->
+ <!-- EXPERIENCE -->
 
 <h2 align="center">🎨 BEYOND THE CODE</h2>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/CYBERX-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/MULTIMEDIA_COMMITTEE-EC4899?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
 
-### Creativity Meets Technology
+### CyberX — Multimedia Committee
 
-As a Multimedia Committee Member, I am interested in the creative side of technology, digital media and visual communication.
+**Universiti Teknologi Malaysia (UTM)**
+
+A member of the Multimedia Committee for the current CyberX batch.
+
+Interested in combining creativity, visual communication and digital media through student club activities.
+
+<br/>
 
 **Creativity · Collaboration · Digital Expression**
 
 </div>
-
-<br/>
 
 <!-- PROJECTS -->
 
