@@ -1,106 +1,108 @@
+ <!-- ==========================================
+     TEE JIA XUAN | STARLIGHT CYBER 3.0
+     Colorful Interactive Developer Portfolio
+=========================================== -->
+
 <div align="center">
 
-<img src="./Tee Jia Xuan_ Cosmic Portfolio Banner.png" width="100%" alt="Tee Jia Xuan - Personal Portfolio Poster"/>
-
-<br/>
-
-<a href="https://github.com/jiaxuantee3307929-hash">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=A5B4FC"/>
-</a>
-<a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="./Tee Jia Xuan_ Cosmic Portfolio Banner.png" width="100%" alt="Tee Jia Xuan Portfolio Poster"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=750&lines=HELLO%2C+WORLD!;COMPUTER+NETWORKS+%26+SECURITY;PROGRAMMING+%7C+TECHNOLOGY+%7C+CREATIVITY;LEARN.+EXPLORE.+CREATE." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=800&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+NETWORKS+%26+SECURITY;EXPLORE.+INNOVATE.+CREATE." alt="Animated typing headline"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/UTM-6D5DFB?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORKS_%26_SECURITY-06B6D4?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://github.com/jiaxuantee3307929-hash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
-
-# 👾 `whoami` — About Me
-
-Hi! I'm **Tee Jia Xuan**, a Computer Science undergraduate at **Universiti Teknologi Malaysia (UTM)**.
-
-I'm currently pursuing a **Bachelor of Computer Science (Computer Networks and Security) with Honours**.
-
-I'm interested in exploring the technology behind digital connectivity, information security, and intelligent systems.
-
-Beyond academics, I'm also involved in multimedia-related committee activities, where technology and creativity come together.
-
-```cpp
-// jiaxuan_profile.cpp
-
-#include <iostream>
-#include <string>
-#include <vector>
-
-struct Profile {
-    std::string name = "Tee Jia Xuan";
-    std::string university =
-        "Universiti Teknologi Malaysia";
-
-    std::string major =
-        "Computer Networks and Security";
-
-    std::string location = "Malaysia";
-
-    std::vector<std::string> interests = {
-        "Computer Networks",
-        "Cybersecurity",
-        "Artificial Intelligence",
-        "Data Engineering",
-        "Multimedia & Creativity"
-    };
-};
-```
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:EC4899,100:06B6D4&height=4" width="100%"/>
 
-# ⚡ `tech_stack` — Technical Skills
+<!-- ABOUT -->
+
+<h2 align="center">🌌 ABOUT ME</h2>
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### Hi, I'm Tee Jia Xuan! 👋
 
-<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" alt="C++ and Java"/>
+**Computer Science Undergraduate | UTM**
+
+I'm currently pursuing a **Bachelor of Computer Science (Computer Networks and Security) with Honours** at Universiti Teknologi Malaysia.
+
+Passionate about technology, curious about how digital systems work, and continuously exploring the possibilities of computing.
 
 <br/>
 
-| Language | Current Knowledge |
-|:---|:---|
+<img src="https://img.shields.io/badge/🎓_EDUCATION-UTM-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/💻_PROGRAMMING-C++_%7C_Java-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎨_ACTIVITY-Multimedia_Committee-06B6D4?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6366F1,100:EC4899&height=3" width="100%"/>
+
+<!-- SKILLS -->
+
+<h2 align="center">💎 TECHNOLOGY & SKILLS</h2>
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" alt="Programming Languages"/>
+
+<br/><br/>
+
+| Language | Knowledge |
+|:---:|:---|
 | C++ | Programming fundamentals |
 | Java | Basic syntax, conditions, loops, arrays and functions |
 
 <br/>
 
-### TECHNOLOGY & TOOLS
+### 🧰 Development Tools
 
-<img src="https://img.shields.io/badge/Computer%20Networks-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-312E81?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multimedia-164E63?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/>
 
 </div>
 
-*Skills and knowledge are continuously developing through academic learning and practical experience.*
+<br/>
 
----
+<!-- INTERESTS -->
 
-# 🔬 `areas_of_interest` — What I'm Exploring
+<h2 align="center">🚀 AREAS OF INTEREST</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/NETWORKS-0891B2?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ### 🌐 Computer Networks
 
-Exploring network architecture, communication protocols, connectivity and network infrastructure.
+Exploring network communication, architecture, connectivity and protocols.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/SECURITY-7C3AED?style=for-the-badge&logo=datadog&logoColor=white"/>
 
 ### 🔐 Cybersecurity
 
@@ -109,139 +111,178 @@ Interested in information security, network protection and digital safety.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-DB2777?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ### 🤖 Artificial Intelligence
 
-Discovering machine learning, intelligent systems and emerging AI technologies.
+Discovering intelligent systems and emerging AI technologies.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/DATA_ENGINEERING-0D9488?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 ### 📊 Data Engineering
 
-Exploring database systems, data processing and data management.
+Exploring data processing, databases and data infrastructure.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🎨 `beyond_code` — Activities & Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:06B6D4&height=3" width="100%"/>
 
-### Multimedia Committee Member
+<!-- EXPERIENCE -->
 
-**CyberX — Universiti Teknologi Malaysia**
-
-Contributing as a member of the Multimedia Committee.
-
-Interested in combining creativity, digital media and technology through committee activities.
-
-*Specific projects and responsibilities can be added as experience develops.*
-
----
-
-# 🚀 `selected_work` — Academic & Learning Portfolio
+<h2 align="center">🎨 BEYOND THE CODE</h2>
 
 <div align="center">
 
-### LEARNING THROUGH EXPERIENCE
+<img src="https://img.shields.io/badge/MULTIMEDIA_COMMITTEE-EC4899?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
 
-`LEARN` → `EXPLORE` → `COLLABORATE` → `CREATE`
+### Creativity Meets Technology
+
+As a Multimedia Committee Member, I am interested in the creative side of technology, digital media and visual communication.
+
+**Creativity · Collaboration · Digital Expression**
 
 </div>
-
-### 💻 Programming Development
-
-Building programming fundamentals through C++ and Java, with an emphasis on logical thinking, conditions, loops, arrays and functions.
-
-### 📁 Technology and Information Course
-
-**Academic Repository — Semester 1**
-
-<a href="https://github.com/jiaxuantee3307929-hash/Technology-and-information-course-section02-semester1">
-
-<img src="https://img.shields.io/badge/VIEW_ACADEMIC_REPOSITORY-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-My involvement included interview-related contributions to the course work. The featured project was not independently developed by me.
 
 <br/>
 
-*Independent programming projects will be added here as they become available.*
+<!-- PROJECTS -->
 
----
+<h2 align="center">✨ ACADEMIC & LEARNING JOURNEY</h2>
 
-# 🎓 `education` — Academic Background
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### UNIVERSITI TEKNOLOGI MALAYSIA
+<img src="https://img.shields.io/badge/01-PROGRAMMING-6366F1?style=for-the-badge"/>
 
-**Bachelor of Computer Science (Computer Networks and Security) with Honours**
-
-Faculty of Computing
-
-Malaysia 🇲🇾
+### 💻 Programming Exploration
 
 </div>
 
-### Academic Highlights
+Developing programming fundamentals through C++ and Java.
+
+**Learning focus:**
+- Programming logic
+- Conditions and loops
+- Arrays and functions
+- Problem-solving
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-ACADEMIC_WORK-EC4899?style=for-the-badge"/>
+
+### 📚 Technology & Information
+
+</div>
+
+Academic coursework and collaborative activities from Semester 1.
+
+My contribution included interview-related work.
+
+<a href="https://github.com/jiaxuantee3307929-hash/Technology-and-information-course-section02-semester1">
+
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*More personal projects will be added as I continue developing my skills.*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:06B6D4&height=3" width="100%"/>
+
+<!-- EDUCATION -->
+
+<h2 align="center">🎓 EDUCATION & ACHIEVEMENTS</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNIVERSITI_TEKNOLOGI_MALAYSIA-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+### Bachelor of Computer Science
+
+**Computer Networks and Security with Honours**
+
+Faculty of Computing · UTM
+
+<br/>
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-## 4.00
+<img src="https://img.shields.io/badge/MATRICULATION-6366F1?style=for-the-badge"/>
 
-**Matriculation CGPA**
+# 4.00
+
+CGPA
 
 </td>
 <td align="center" width="50%">
 
-## Band 4
+<img src="https://img.shields.io/badge/MUET-EC4899?style=for-the-badge"/>
 
-**MUET**
+# Band 4
+
+English Proficiency
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-# 📊 `github_analytics` — GitHub Statistics
+<br/>
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">📈 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-### GITHUB OVERVIEW
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jiaxuantee3307929-hash&show_icons=true&hide_border=true&bg_color=172554,312E81&title_color=93C5FD&icon_color=C4B5FD&text_color=E2E8F0&rank_icon=github" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jiaxuantee3307929-hash&show_icons=true&hide_border=true&bg_color=1A1640&title_color=C4B5FD&icon_color=F472B6&text_color=E0E7FF&rank_icon=github" width="95%" alt="GitHub Stats"/>
 
 <br/><br/>
 
-### MOST USED LANGUAGES
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee3307929-hash&layout=compact&hide_border=true&bg_color=172554,312E81&title_color=93C5FD&text_color=E2E8F0&langs_count=6" alt="GitHub Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee3307929-hash&layout=compact&hide_border=true&bg_color=1A1640&title_color=67E8F9&text_color=E0E7FF&langs_count=6" width="65%" alt="Most Used Languages"/>
 
 <br/><br/>
 
-### CONTRIBUTION ACTIVITY
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxuantee3307929-hash&bg_color=172554&color=93C5FD&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Journey" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxuantee3307929-hash&bg_color=1A1640&color=C4B5FD&line=EC4899&point=67E8F9&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-*GitHub statistics and language distribution are generated from publicly available repository activity.*
+<br/>
 
----
+<!-- CONNECT -->
 
-# 🌌 `connect` — Let's Connect
+<h2 align="center">💌 CONNECT WITH ME</h2>
 
 <div align="center">
 
-### OPEN TO CONNECTIONS & NEW IDEAS
+### Let's Connect & Share Ideas!
 
 <a href="https://github.com/jiaxuantee3307929-hash">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -255,10 +296,10 @@ Malaysia 🇲🇾
 
 📍 Malaysia
 
-**Curiosity • Creativity • Continuous Learning**
+**Stay Curious. Keep Creating. Never Stop Exploring.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:312E81,100:0891B2&height=120&section=footer&text=KEEP%20EXPLORING&fontSize=22&fontColor=A5B4FC&fontAlignY=65" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:6366F1,65:EC4899,100:06B6D4&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=19&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Animated footer"/>
 
 </div>
