@@ -33,7 +33,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3"/>
 </p>
-
+<br>
+<br>
 <!-- ABOUT ME -->
 <p align="center">
   <img src="./assets/aboutme-stars.svg"
