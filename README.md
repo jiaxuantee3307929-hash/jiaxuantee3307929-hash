@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/starfield.gif" width="100%" alt="Twinkling Stars"/>
+  <img src="./starfield.gif" width="100%" alt="Twinkling Stars"/>
 </p>
 
 <p align="center">
