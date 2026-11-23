@@ -1,56 +1,245 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#21143e"/>
-      <stop offset="100%" stop-color="#10182f"/>
-    </linearGradient>
-    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ff9ce8"/>
-      <stop offset="50%" stop-color="#9b8cff"/>
-      <stop offset="100%" stop-color="#79eaff"/>
-    </linearGradient>
-    <filter id="shine">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="420" viewBox="0 0 300 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#21143e"/>
+    <stop offset="55%" stop-color="#17142f"/>
+    <stop offset="100%" stop-color="#101c35"/>
+  </linearGradient>
 
-  <rect width="300" height="400" rx="18" fill="url(#bg)"/>
-  <rect x="8" y="8" width="284" height="384" rx="14" fill="none" stroke="url(#border)" stroke-width="2"/>
-  <path d="M20 55 H280 M20 270 H280" stroke="#7466bb" opacity=".7"/>
+  <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ffb6ed"/>
+    <stop offset="50%" stop-color="#a58aff"/>
+    <stop offset="100%" stop-color="#80eaff"/>
+  </linearGradient>
 
-  <text x="150" y="35" text-anchor="middle" fill="#f5c6ff" font-family="monospace" font-size="12" letter-spacing="3">PLAYER PROFILE</text>
-  <text x="150" y="75" text-anchor="middle" fill="#8be9ff" font-family="monospace" font-size="10">LV. 01 · COMPUTER SCIENCE</text>
+  <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#40305e"/>
+    <stop offset="45%" stop-color="#211b3c"/>
+    <stop offset="100%" stop-color="#100f28"/>
+  </linearGradient>
 
-  <!-- Pixel character -->
-  <g transform="translate(110 95)" shape-rendering="crispEdges">
-    <rect x="20" y="0" width="40" height="10" fill="#30204e"/>
-    <rect x="10" y="10" width="60" height="40" fill="#e7b4a6"/>
-    <rect x="20" y="20" width="10" height="8" fill="#28203f"/>
-    <rect x="50" y="20" width="10" height="8" fill="#28203f"/>
-    <rect x="30" y="38" width="20" height="5" fill="#9e557d"/>
-    <rect x="0" y="50" width="80" height="45" fill="#8c6de0"/>
-    <rect x="10" y="55" width="60" height="35" fill="#b08cff"/>
-    <rect x="20" y="95" width="15" height="25" fill="#25294e"/>
-    <rect x="45" y="95" width="15" height="25" fill="#25294e"/>
-    <rect x="10" y="120" width="25" height="8" fill="#8be9ff"/>
-    <rect x="45" y="120" width="25" height="8" fill="#8be9ff"/>
-    <rect x="0" y="60" width="10" height="28" fill="#e7b4a6"/>
-    <rect x="70" y="60" width="10" height="28" fill="#e7b4a6"/>
-    <animateTransform attributeName="transform" type="translate" values="110 95;110 91;110 95" dur="2s" repeatCount="indefinite"/>
-  </g>
+  <linearGradient id="outfit" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#d0aaff"/>
+    <stop offset="50%" stop-color="#9876e8"/>
+    <stop offset="100%" stop-color="#6252bd"/>
+  </linearGradient>
 
-  <text x="150" y="250" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="17" font-weight="bold">TEE JIA XUAN</text>
-  <text x="150" y="290" text-anchor="middle" fill="#ffb7ed" font-family="monospace" font-size="11">CURRENT QUESTS</text>
+  <radialGradient id="magic">
+    <stop offset="0%" stop-color="#b69aff" stop-opacity=".1"/>
+    <stop offset="80%" stop-color="#9b7cff" stop-opacity=".05"/>
+    <stop offset="100%" stop-color="#9b7cff" stop-opacity="0"/>
+  </radialGradient>
 
-  <g font-family="monospace" font-size="10" fill="#d9d5ff">
-    <text x="35" y="315">✦ CyberX · Multimedia Committee</text>
-    <text x="35" y="337">✦ NALI 2026 · Event Interview</text>
-    <text x="35" y="359">✦ PC Assembly · Hands-on Activity</text>
-  </g>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
 
-  <text x="150" y="382" text-anchor="middle" fill="#8be9ff" font-family="monospace" font-size="9" letter-spacing="2">QUEST IN PROGRESS...</text>
-  <circle cx="267" cy="35" r="4" fill="#8be9ff" filter="url(#shine)">
-    <animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/>
+<!-- Background -->
+<rect width="300" height="420" rx="20" fill="url(#bg)"/>
+<rect x="8" y="8" width="284" height="404" rx="15"
+      fill="none" stroke="url(#frame)" stroke-width="1.8"/>
+
+<!-- Corner decorations -->
+<path d="M18 55 V20 H53 M247 20 H282 V55
+         M18 365 V400 H53 M247 400 H282 V365"
+      fill="none" stroke="#9b83e8" stroke-width="1.5" opacity=".8"/>
+
+<!-- Stars -->
+<g fill="#fff">
+  <circle cx="35" cy="90" r="1.5">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
   </circle>
+  <circle cx="260" cy="100" r="1.5">
+    <animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="48" cy="230" r="1.5"/>
+  <circle cx="250" cy="245" r="1.5"/>
+  <circle cx="75" cy="285" r="1"/>
+  <circle cx="230" cy="290" r="1.5"/>
+</g>
+
+<g stroke="#cbbaff" stroke-width="1.5" filter="url(#glow)">
+  <path d="M42 135 V145 M37 140 H47"/>
+  <path d="M255 160 V170 M250 165 H260"/>
+  <path d="M45 275 V283 M41 279 H49"/>
+</g>
+
+<!-- Header -->
+<text x="150" y="35" text-anchor="middle"
+      fill="#f4c8ff" font-family="monospace"
+      font-size="12" letter-spacing="3">PLAYER PROFILE</text>
+
+<text x="150" y="75" text-anchor="middle"
+      fill="#8be9ff" font-family="monospace"
+      font-size="9" letter-spacing="2">LV. 01 · COMPUTER SCIENCE</text>
+
+<!-- Character magical halo -->
+<ellipse cx="150" cy="177" rx="72" ry="82"
+         fill="url(#magic)"/>
+
+<ellipse cx="150" cy="177" rx="62" ry="73"
+         fill="none" stroke="#a58aff"
+         stroke-width="1" opacity=".45"
+         stroke-dasharray="4 7">
+  <animateTransform attributeName="transform"
+      type="rotate" from="0 150 177"
+      to="360 150 177" dur="35s"
+      repeatCount="indefinite"/>
+</ellipse>
+
+<!-- Character -->
+<g shape-rendering="crispEdges">
+
+  <!-- Long hair behind -->
+  <path d="
+    M111 137
+    L111 111 L123 98 L177 98 L189 111
+    L189 150 L196 158 L196 237
+    L187 246 L178 246 L178 224
+    L172 213 L128 213 L122 230
+    L122 246 L113 246 L104 237
+    L104 158 Z"
+    fill="url(#hair)"/>
+
+  <!-- Hair side highlights -->
+  <path d="M112 130 L120 112 L128 109
+           L128 203 L119 222 L112 230 Z"
+        fill="#59447e"/>
+
+  <path d="M180 110 L188 130 L188 230
+           L180 220 L174 202 L174 110 Z"
+        fill="#34274f"/>
+
+  <path d="M117 145 L117 195 L112 218"
+        fill="none" stroke="#8064a9" stroke-width="3"/>
+
+  <path d="M184 145 L184 195 L189 218"
+        fill="none" stroke="#65518c" stroke-width="3"/>
+
+  <!-- Face -->
+  <rect x="124" y="119" width="52" height="61"
+        fill="#f3c9bd"/>
+
+  <rect x="116" y="135" width="8" height="22"
+        fill="#e9b2aa"/>
+
+  <rect x="176" y="135" width="8" height="22"
+        fill="#e9b2aa"/>
+
+  <!-- Neck -->
+  <rect x="140" y="176" width="20" height="17"
+        fill="#e9b5aa"/>
+
+  <!-- Hair fringe -->
+  <path d="
+    M111 132
+    L111 109 L124 97 L176 97 L189 109
+    L189 137 L179 137
+    L179 125 L168 139
+    L158 126 L149 139
+    L139 126 L129 139
+    L120 128 L120 139 Z"
+    fill="#211a39"/>
+
+  <!-- Hair shine -->
+  <path d="M124 108 L137 101 L150 101"
+        stroke="#8064a9" stroke-width="3" fill="none"/>
+
+  <!-- Eyes -->
+  <rect x="132" y="145" width="8" height="9" fill="#49335f"/>
+  <rect x="160" y="145" width="8" height="9" fill="#49335f"/>
+
+  <rect x="134" y="146" width="4" height="5" fill="#b69aff"/>
+  <rect x="162" y="146" width="4" height="5" fill="#b69aff"/>
+
+  <rect x="135" y="146" width="2" height="2" fill="#fff"/>
+  <rect x="163" y="146" width="2" height="2" fill="#fff"/>
+
+  <!-- Blush -->
+  <rect x="126" y="158" width="8" height="3" fill="#e9a2b6" opacity=".7"/>
+  <rect x="166" y="158" width="8" height="3" fill="#e9a2b6" opacity=".7"/>
+
+  <!-- Mouth -->
+  <path d="M144 166 H156" stroke="#a65f83" stroke-width="2"/>
+
+  <!-- Body -->
+  <path d="
+    M130 190 L140 185 L150 194
+    L160 185 L170 190
+    L182 201 L177 222
+    L174 250 L126 250
+    L123 222 L118 201 Z"
+    fill="url(#outfit)"/>
+
+  <!-- Collar -->
+  <path d="M140 186 L150 197 L160 186"
+        fill="none" stroke="#f3d6ff" stroke-width="3"/>
+
+  <!-- Star emblem -->
+  <path d="M150 207 L153 214 L161 215
+           L155 220 L157 228 L150 224
+           L143 228 L145 220 L139 215
+           L147 214 Z"
+        fill="#8be9ff" filter="url(#glow)"/>
+
+  <!-- Sleeves -->
+  <path d="M118 201 L108 213 L112 233 L124 229 L128 210"
+        fill="#a88ae9"/>
+  <path d="M182 201 L192 213 L188 233 L176 229 L172 210"
+        fill="#a88ae9"/>
+
+  <!-- Hands -->
+  <rect x="111" y="231" width="11" height="9" fill="#f0c2b6"/>
+  <rect x="178" y="231" width="11" height="9" fill="#f0c2b6"/>
+
+  <!-- Skirt -->
+  <path d="M126 250 L174 250 L183 274
+           L117 274 Z"
+        fill="#55449d"/>
+
+  <path d="M126 250 L150 258 L174 250"
+        fill="none" stroke="#c6aaff" stroke-width="3"/>
+
+  <!-- Legs -->
+  <rect x="131" y="274" width="14" height="18" fill="#252440"/>
+  <rect x="155" y="274" width="14" height="18" fill="#252440"/>
+
+  <!-- Boots -->
+  <rect x="125" y="290" width="23" height="7" fill="#8be9ff"/>
+  <rect x="152" y="290" width="23" height="7" fill="#8be9ff"/>
+
+  <!-- Gentle idle movement -->
+  <animateTransform attributeName="transform"
+      type="translate"
+      values="0 0;0 -2;0 0"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+</g>
+
+<!-- Character name -->
+<text x="150" y="315" text-anchor="middle"
+      fill="#ffffff" font-family="monospace"
+      font-size="15" font-weight="bold"
+      letter-spacing="2">TEE JIA XUAN</text>
+
+<text x="150" y="337" text-anchor="middle"
+      fill="#c6aaff" font-family="monospace"
+      font-size="9" letter-spacing="3">ADVENTURER PROFILE</text>
+
+<path d="M35 348 H265" stroke="#7562b8" opacity=".6"/>
+
+<!-- Quests -->
+<g font-family="monospace" font-size="9.5" fill="#e4dcff">
+  <text x="30" y="367">✦ CyberX · Multimedia Committee</text>
+  <text x="30" y="384">✦ NALI 2026 · Event Interview</text>
+  <text x="30" y="401">✦ PC Assembly · Hands-on Activity</text>
+</g>
+
 </svg>
+```
