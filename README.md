@@ -220,11 +220,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxuantee3307929-hash&bg_color=09051B&color=C084FC&line=EC4899&point=67E8F9&area=true&hide_border=true"/>
 </p>
 
-<!-- PIXEL CAT -->
+<!-- PIXEL CAT + THANK YOU -->
 
 <p align="center">
-  <img src="./pixel-cat.gif" width="160" alt="Pixel Cat"/>
-  <br/>
+  <img src="./pixel-cat.gif" width="85" alt="Pixel Cat" align="absmiddle"/>
+  <span style="font-size: 25px; font-weight: bold; color: #C084FC;">
+    THANK YOU!
+  </span>
+</p>
+
+<p align="center">
   <sub>✦ A little explorer in the digital universe ✦</sub>
 </p>
 
@@ -234,10 +239,10 @@
 
 <p align="center">
   <a href="https://github.com/jiaxuantee3307929-hash">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
