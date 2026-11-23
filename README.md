@@ -154,21 +154,26 @@
 <!-- EDUCATION -->
 
 <h2 align="center">✦ ACADEMIC JOURNEY & ACHIEVEMENTS ✦</h2>
-<img src="./assets/orbit-planet.svg?v=2"
-     width="100%"
-     alt="Learning Orbit"/>
-<p align="center">
-  
-  <!-- ACADEMIC JOURNEY -->
 
-<table align="center">
+<p align="center">
+  <img src="./assets/orbit-planet.svg?v=2"
+       width="100%"
+       alt="Learning Orbit"/>
+</p>
+
+<br/>
+
+<!-- ACADEMIC JOURNEY -->
+
+<table width="100%" align="center">
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center" valign="top">
       <h3>💻 Programming Exploration</h3>
       Learning programming fundamentals through C++ and Java,
       including conditions, loops, arrays and functions.
     </td>
-    <td align="center" width="50%">
+
+    <td width="50%" align="center" valign="top">
       <h3>📚 Technology & Information</h3>
       Participated in interview-related work for a
       Technology & Information course project.
@@ -176,24 +181,25 @@
   </tr>
 </table>
 
-<!-- Education & Academic Achievements -->
-<table width="100%" style="table-layout: fixed; width: 100%;">
+<br/>
+
+<!-- EDUCATION & ACHIEVEMENTS -->
+
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-
       <h3>🎓 EDUCATION</h3>
 
       <strong>Universiti Teknologi Malaysia</strong>
       <br/>
       <sub>Computer Networks and Security with Honours</sub>
+
       <br/><br/>
 
       <img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge"/>
-
     </td>
 
     <td width="50%" align="center" valign="top">
-
       <h3>🏆 ACADEMIC ACHIEVEMENTS</h3>
 
       <br/>
@@ -203,11 +209,9 @@
       <br/><br/>
 
       <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
-
     </td>
   </tr>
 </table>
-
 
 <br>
 <br>
