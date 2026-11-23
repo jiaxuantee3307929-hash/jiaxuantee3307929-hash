@@ -162,7 +162,13 @@
 
 <h2 align="center">✦ EXPERIENCE & ACTIVITIES ✦</h2>
 <p align="center">
-  <img src="./assets/rpg-card.svg" width="210" alt="RPG Character Card"/>
+<p align="center">
+  <img
+    src="./assets/rpg-character.png"
+    width="100%"
+    alt="Pixel RPG Character Profile"
+  />
+</p>
 </p>
 <h3>🎓 NALI 2026 — New Academia Learning Innovation</h3>
 
