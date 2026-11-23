@@ -1,5 +1,5 @@
  <!-- TEE JIA XUAN | STARLIGHT CYBER 2.0 -->
-<!-- Replace profile-poster.png with your uploaded poster filename if different. -->
+<!-- Replace Tee Jia Xuan_ Cosmic Portfolio Banner.png with your uploaded poster filename if different. -->
 
 <div align="center">
 
