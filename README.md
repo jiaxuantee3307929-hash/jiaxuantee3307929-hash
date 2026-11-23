@@ -177,18 +177,30 @@
 </table>
 
 <p align="center">
-  <b>Universiti Teknologi Malaysia</b><br/>
-  Computer Networks and Security with Honours
+  <br/>
+  <strong>🎓 UNIVERSITI TEKNOLOGI MALAYSIA</strong>
+  <br/>
+  <sub>Computer Networks and Security with Honours</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UTM-Bachelor%20of%20Computer%20Science-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- Academic Achievements -->
+<p align="center">
+  <strong>✦ ACADEMIC ACHIEVEMENTS ✦</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Matriculation-CGPA%204.00-EC4899?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MUET-Band%204-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
 </p>
+
+<br/>
 <br>
 <br>
 <br>
