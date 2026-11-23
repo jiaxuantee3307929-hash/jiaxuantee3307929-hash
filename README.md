@@ -210,16 +210,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee3307929-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=09051B&title_color=C084FC&text_color=E9D5FF"/>
 </p>
 
-<h3 align="center">🐍 CONTRIBUTION SNAKE</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jiaxuantee3307929-hash/jiaxuantee3307929-hash/output/github-snake.svg" width="100%" alt="Contribution Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxuantee3307929-hash&bg_color=09051B&color=C084FC&line=EC4899&point=67E8F9&area=true&hide_border=true"/>
-</p>
-
 <!-- PIXEL CAT + DESCRIPTION -->
 
 <table align="center" border="0">
