@@ -35,9 +35,8 @@
 </p>
 
 <!-- ABOUT ME -->
-
-<h2 align="center">✦ ABOUT ME ✦</h2>
 <img src="./starfield.gif" width="100%" alt="Twinkling Stars"/>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <p align="center">
   Hello! I'm <b>Tee Jia Xuan</b>, a Computer Science undergraduate at
