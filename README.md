@@ -224,7 +224,7 @@
 
 <p align="center">
   <img src="./pixel-cat.gif" width="160" alt="Pixel Cat"/>
-  <br/>
+  
   <sub>✦ A little explorer in the digital universe ✦</sub>
 </p>
 
