@@ -177,15 +177,9 @@
 </table>
 
 <!-- Education & Academic Achievements -->
-<!-- Education & Academic Achievements -->
-<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <colgroup>
-    <col width="50%"/>
-    <col width="50%"/>
-  </colgroup>
-
+<table width="100%" align="center">
   <tr>
-    <!-- LEFT COLUMN -->
+    <!-- Left: Education -->
     <td width="50%" align="center" valign="middle">
 
       <h3>🎓 EDUCATION</h3>
@@ -199,13 +193,15 @@
 
     </td>
 
-    <!-- RIGHT COLUMN -->
+    <!-- Right: Achievements -->
     <td width="50%" align="center" valign="middle">
 
       <h3>🏆 ACADEMIC ACHIEVEMENTS</h3>
 
       <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
+
       <br/><br/>
+
       <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
 
     </td>
