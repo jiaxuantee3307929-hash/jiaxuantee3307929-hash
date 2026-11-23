@@ -65,12 +65,6 @@
   <img src="https://img.shields.io/badge/STATUS-EXPLORING%20∞-EC4899?style=for-the-badge"/>
 </p>
 
-<!-- MATRIX RAIN -->
-
-<p align="center">
-  <img src="./matrix-rain.gif" width="100%" alt="Matrix Digital Rain"/>
-</p>
-
 <!-- SKILLS -->
 
 <h2 align="center">✦ SKILLS & TECHNOLOGIES ✦</h2>
@@ -120,7 +114,11 @@
 <!-- BEYOND THE CODE -->
 
 <h2 align="center">✦ BEYOND THE CODE ✦</h2>
+<!-- MATRIX RAIN -->
 
+<p align="center">
+  <img src="./matrix-rain.gif" width="100%" alt="Matrix Digital Rain"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/CyberX-Multimedia%20Committee-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
