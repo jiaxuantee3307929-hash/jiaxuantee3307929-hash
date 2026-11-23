@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-</p>
+</p> 
 
 <p align="center">
   <img src="./Tee Jia Xuan_ Cosmic Portfolio Banner.png" width="100%" alt="Tee Jia Xuan Cosmic Portfolio Banner"/>
