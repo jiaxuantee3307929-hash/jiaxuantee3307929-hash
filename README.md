@@ -172,15 +172,19 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>💻 Programming Exploration</h3>
-      Learning programming fundamentals through C++ and Java,
-      including conditions, loops, arrays and functions.
+      <p>
+        Learning programming fundamentals through C++ and Java,
+        including conditions, loops, arrays and functions.
+      </p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>📚 Technology & Information</h3>
-      Participated in interview-related work for a
-      Technology & Information course project.
+      <p>
+        Participated in interview-related work for a
+        Technology & Information course project.
+      </p>
     </td>
   </tr>
 </table>
@@ -189,20 +193,24 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🎓 EDUCATION</h3>
-      <strong>Universiti Teknologi Malaysia</strong>
+      <p>
+        <strong>Universiti Teknologi Malaysia</strong>
+        <br/>
+        <sub>Computer Networks and Security with Honours</sub>
+      </p>
       <br/>
-      <sub>Computer Networks and Security with Honours</sub>
-      <br/><br/>
       <img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge"/>
     </td>
-    <td width="50%" valign="top" align="center">
+
+    <td width="50%" align="center" valign="top">
       <h3>🏆 ACADEMIC ACHIEVEMENTS</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
+      <p>
+        <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
+      </p>
     </td>
   </tr>
 </table>
