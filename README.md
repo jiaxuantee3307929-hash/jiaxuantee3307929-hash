@@ -50,8 +50,7 @@ Passionate about technology, curious about how digital systems work, and continu
 
 <img src="https://img.shields.io/badge/🎓_EDUCATION-UTM-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/💻_PROGRAMMING-C++_%7C_Java-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎨_ACTIVITY-Multimedia_Committee-06B6D4?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/🎨_ACTIVITY-CyberX_Multimedia_Committee-06B6D4?style=flat-square"/>
 </div>
 
 <br/>
