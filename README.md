@@ -172,14 +172,6 @@
 
 <br/>
 
-<h2 align="center">✦ ACADEMIC JOURNEY & ACHIEVEMENTS ✦</h2>
-
-<p align="center">
-  <img src="./assets/orbit-planet.svg?v=3" width="100%" alt="Learning Orbit"/>
-</p>
-
-<br/>
-
 ## 💻 Programming Exploration
 
 Learning programming fundamentals through C++ and Java, including conditions, loops, arrays and functions.
