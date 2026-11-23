@@ -151,13 +151,33 @@
 <br>
 <br>
 
+<!-- EDUCATION -->
+
+<h2 align="center">✦ EDUCATION & ACHIEVEMENTS ✦</h2>
+<img src="./assets/orbit-planet.svg?v=2"
+     width="100%"
+     alt="Learning Orbit"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/UTM-Bachelor%20of%20Computer%20Science-8B5CF6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Universiti Teknologi Malaysia</b><br/>
+  Computer Networks and Security with Honours
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Matriculation-CGPA%204.00-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MUET-Band%204-06B6D4?style=for-the-badge"/>
+</p>
+<br>
+<br>
+<br>
+
 <!-- ACADEMIC JOURNEY -->
 
 <h2 align="center">✦ ACADEMIC & LEARNING JOURNEY ✦</h2>
 <p align="center">
-<img src="./assets/orbit-planet.svg?v=2"
-     width="100%"
-     alt="Learning Orbit"/>
 </p>
 
 <table align="center">
@@ -210,28 +230,6 @@
   Experienced with AI software and participated in an AI video competition.
   Explored AI-assisted video creation, visual storytelling and creative
   digital content production.
-</p>
-<br>
-<br>
-<br>
-
-
-<!-- EDUCATION -->
-
-<h2 align="center">✦ EDUCATION & ACHIEVEMENTS ✦</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UTM-Bachelor%20of%20Computer%20Science-8B5CF6?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <b>Universiti Teknologi Malaysia</b><br/>
-  Computer Networks and Security with Honours
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Matriculation-CGPA%204.00-EC4899?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MUET-Band%204-06B6D4?style=for-the-badge"/>
 </p>
 <br>
 <br>
