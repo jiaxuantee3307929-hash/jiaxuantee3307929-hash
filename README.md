@@ -223,7 +223,7 @@
 <!-- PIXEL CAT -->
 
 <p align="center">
-  <img src="./assets/pixel-cat.svg" width="160" alt="Pixel Cat"/>
+  <img src="./pixel-cat.gif" width="160" alt="Pixel Cat"/>
   <br/>
   <sub>✦ A little explorer in the digital universe ✦</sub>
 </p>
