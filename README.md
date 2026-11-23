@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="./profile-poster.png" width="100%" alt="Tee Jia Xuan Personal Portfolio Poster"/>
+<img src="./blob/main/Tee%20Jia%20Xuan_%20Cosmic%20Portfolio%20Banner.png" width="100%" alt="Tee Jia Xuan Personal Portfolio Poster"/>
 
 <br/><br/>
 
