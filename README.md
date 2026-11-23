@@ -1,97 +1,130 @@
 <!-- =====================================================
-     TEE JIA XUAN | PREMIUM GITHUB PROFILE README
-     Theme: Midnight Blue | Electric Cyan | Violet
+     TEE JIA XUAN | GITHUB PROFILE
+     CYBER IDENTITY — DARK DIGITAL PORTFOLIO
 ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=TEE%20JIA%20XUAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20NETWORKS%20%26%20SECURITY&descAlignY=58&descSize=14&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=12" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+the+Digital+World+%F0%9F%8C%90;Learning+Computer+Networks+%26+Security+%F0%9F%94%90;Building+with+C%2B%2B+%F0%9F%92%BB;Turning+Curiosity+into+Knowledge+%E2%9C%A8" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=450&lines=HELLO%2C+WORLD.;WELCOME+TO+MY+DIGITAL+SPACE.;INITIALIZING+MY+TECH+JOURNEY..." />
+
+<br/>
+
+# TEE JIA XUAN
+
+### `COMPUTER SCIENCE STUDENT`
+
+<p>
+  <img src="https://img.shields.io/badge/NETWORKS-AND-SECURITY-00E5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BASED-IN-MALAYSIA-8B5CF6?style=flat-square&labelColor=0D1117" />
+</p>
+
+**Exploring technology. Understanding systems. Building possibilities.**
 
 <br/>
 
 <a href="https://github.com/jiaxuantee33079392-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 <a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
 </a>
-<img src="https://img.shields.io/badge/UTM-003B70?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jiaxuantee33079392-hash&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="75%" />
 
 </div>
 
----
+<br/>
 
-## 👩🏻‍💻 About Me
+## 01 / ABOUT ME
 
-```yaml
-name: Tee Jia Xuan
-location: Malaysia
-university: Universiti Teknologi Malaysia (UTM)
+```text
+$ whoami
 
-education:
-  degree: Bachelor of Computer Science
-  specialization: Computer Networks and Security
-  qualification: With Honours
-
-currently_learning:
-  - C++
-  - Computer Science Fundamentals
-
-interests:
-  - Cybersecurity
-  - Computer Networks
-  - Artificial Intelligence
-  - Data Engineering
-  - Software Engineering
-
-goal: Continuous Learning and Technical Growth
+Name       : Tee Jia Xuan
+University : Universiti Teknologi Malaysia
+Degree     : B.Comp.Sc. (Computer Networks and Security)
+Status     : Undergraduate Student
+Location   : Malaysia
 ```
 
-Hello! I'm **Tee Jia Xuan**, an undergraduate Computer Science student at **Universiti Teknologi Malaysia (UTM)**, pursuing a Bachelor's degree in Computer Science (Computer Networks and Security) with Honours.
+Hi! I'm **Tee Jia Xuan**, a Computer Science undergraduate at **Universiti Teknologi Malaysia (UTM)**, pursuing a Bachelor of Computer Science (Computer Networks and Security) with Honours.
 
-I'm fascinated by how technology connects people, systems, and information across the digital world.
+I'm interested in understanding how digital systems communicate, operate, and stay secure.
 
-My academic journey revolves around understanding computing fundamentals, exploring network technologies, and developing an interest in cybersecurity and emerging technologies.
+Currently, I'm building my programming foundations while exploring the broader world of computer science.
 
-I believe that every new concept learned and every challenge solved is another step towards becoming a better technologist.
+My approach is simple:
 
----
+> Stay curious, keep learning, and turn knowledge into something meaningful.
 
-## 🎯 My Focus Areas
+<br/>
+
+## 02 / TECHNOLOGY STACK
 
 <div align="center">
 
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+
+**C++ — Currently Learning**
+
+<br/>
+
+### AREAS OF INTEREST
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 🌐
-**Computer Networks**
+<img src="https://img.shields.io/badge/01-00E5FF?style=flat-square&labelColor=0D1117" />
 
-Understanding network architectures, communication protocols, and interconnected systems.
+### 🌐 NETWORKING
 
-</td>
-<td align="center" width="33%">
-
-### 🔐
-**Cybersecurity**
-
-Exploring information security, network protection, and digital safety.
+Computer Networks  
+Network Architecture  
+Communication Protocols
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 💻
-**Programming**
+<img src="https://img.shields.io/badge/02-8B5CF6?style=flat-square&labelColor=0D1117" />
 
-Developing computational thinking and problem-solving skills through programming.
+### 🔐 CYBERSECURITY
+
+Information Security  
+Network Security  
+Digital Protection
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/03-00E5FF?style=flat-square&labelColor=0D1117" />
+
+### 🤖 ARTIFICIAL INTELLIGENCE
+
+Machine Learning  
+Intelligent Systems  
+Emerging Technologies
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/04-8B5CF6?style=flat-square&labelColor=0D1117" />
+
+### 📊 DATA ENGINEERING
+
+Database Systems  
+Data Processing  
+Data Infrastructure
 
 </td>
 </tr>
@@ -99,67 +132,60 @@ Developing computational thinking and problem-solving skills through programming
 
 </div>
 
----
+<br/>
 
-## 🛠️ Technical Skills
+## 03 / RESEARCH INTERESTS
 
-### Programming Languages
+Areas of computing that I'm interested in exploring:
 
-<div align="left">
+- **Computer Networks** — Understanding how devices and systems communicate.
+- **Cybersecurity** — Exploring the principles of protecting digital information.
+- **Artificial Intelligence** — Learning about intelligent computational systems.
+- **Data Engineering** — Understanding how data is stored, processed, and managed.
+- **Software Engineering** — Exploring the development of reliable software solutions.
 
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+<br/>
 
-</div>
-
-**Currently learning:** C++
-
-### Areas of Technical Interest
-
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-0F172A?style=flat-square&logo=cisco&logoColor=49C5B6)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F172A?style=flat-square&logo=kalilinux&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0F172A?style=flat-square&logo=databricks&logoColor=FF3621)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=flat-square&logo=openai&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0F172A?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-
-*These represent areas of interest, not claims of professional proficiency.*
-
----
-
-## 🔬 Research Interests
-
-I'm interested in exploring the technologies shaping the future of computing.
-
-| Research Area | Topics |
-|:---|:---|
-| 🌐 Computer Networks | Network Architecture, Communication Protocols |
-| 🔐 Cybersecurity | Information Security, Network Security |
-| 🤖 Artificial Intelligence | Machine Learning, Intelligent Systems |
-| 📊 Data Engineering | Data Processing, Database Systems |
-| 💻 Software Engineering | Software Development, System Design |
-
----
-
-## 🚀 Projects & Learning Journey
+## 04 / SELECTED WORKS
 
 <div align="center">
 
-### Building Knowledge, One Project at a Time.
+### THE PORTFOLIO IS UNDER CONSTRUCTION.
+
+`LEARNING` → `EXPERIMENTING` → `BUILDING` → `IMPROVING`
 
 </div>
 
-My GitHub is a space where I document my learning journey, experiment with programming concepts, and gradually develop practical technical skills.
+I'm gradually developing my technical portfolio through academic learning and independent exploration.
 
-| Project | Description | Status |
-|:---|:---|:---|
-| C++ Learning Projects | Programming exercises and fundamental concepts | 🌱 Learning |
-| Network & Security Projects | Future academic and personal projects | 🔍 Exploring |
-| Personal Projects | Future independent development projects | 🚀 Planned |
+<table>
+<tr>
+<td width="50%">
 
-*Project repositories will be added as development progresses.*
+### 💻 C++ DEVELOPMENT
 
----
+**Status:** Learning
 
-## 🎓 Education & Academic Background
+Developing programming fundamentals and exploring computational problem-solving.
+
+</td>
+<td width="50%">
+
+### 🌐 NETWORKING & SECURITY
+
+**Status:** Exploring
+
+Building foundational knowledge in computer networks and cybersecurity.
+
+</td>
+</tr>
+</table>
+
+*Individual project repositories will be featured here as they become available.*
+
+<br/>
+
+## 05 / EDUCATION
 
 <div align="center">
 
@@ -167,37 +193,65 @@ My GitHub is a space where I document my learning journey, experiment with progr
 
 **Bachelor of Computer Science (Computer Networks and Security) with Honours**
 
-Faculty of Computing  
-Johor, Malaysia
+Faculty of Computing
+
+`JOHOR, MALAYSIA`
 
 </div>
 
-### Pre-University Education
+### Academic Background
 
-- Matriculation CGPA: **4.00**
-- Malaysian University English Test (MUET): **Band 4**
-
----
-
-## 🏆 Achievements & Certifications
-
-Currently focused on academic development and building a strong technical foundation.
-
-| Category | Details |
+| Qualification | Achievement |
 |:---|:---|
-| Academic | Matriculation CGPA 4.00 |
-| English Proficiency | MUET Band 4 |
-| Certifications | To be updated |
-| Technical Competitions | To be updated |
+| Matriculation | CGPA 4.00 |
+| MUET | Band 4 |
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## 06 / GITHUB ANALYTICS
 
 <div align="center">
 
+### MY DEVELOPMENT JOURNEY
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jiaxuantee33079392-hash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
+
+<br/><br/>
+
+### LANGUAGE DISTRIBUTION
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee33079392-hash&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+## 07 / CONNECT WITH ME
+
+<div align="center">
+
+**Have something interesting to share? Let's connect.**
+
+<br/>
+
 <a href="https://github.com/jiaxuantee33079392-hash">
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiaxuantee33079392-hash&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" />
+<a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
+<img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee33079392-hash&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+<br/><br/>
+
+`MALAYSIA` &nbsp; · &nbsp; `COMPUTER SCIENCE` &nbsp; · &nbsp; `CONTINUOUS LEARNING`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jiaxuantee33079392-hash&style=flat-square&color=00E5FF&label=VISITORS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:00E5FF&height=120&section=footer" width="100%" />
+
+</div>
