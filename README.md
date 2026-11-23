@@ -165,36 +165,47 @@
 <h2 align="center">✦ ACADEMIC JOURNEY & ACHIEVEMENTS ✦</h2>
 
 <p align="center">
-  <img src="./assets/orbit-planet.svg?v=2"
-       width="100%"
-       alt="Learning Orbit"/>
+  <img src="./assets/orbit-planet.svg?v=3" width="100%" alt="Learning Orbit"/>
 </p>
 
 <br/>
 
-## 💻 Programming Exploration
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Programming Exploration</h3>
+      Learning programming fundamentals through C++ and Java,
+      including conditions, loops, arrays and functions.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📚 Technology & Information</h3>
+      Participated in interview-related work for a
+      Technology & Information course project.
+    </td>
+  </tr>
+</table>
 
-Learning programming fundamentals through C++ and Java, including conditions, loops, arrays and functions.
+<br/>
 
-## 📚 Technology & Information
-
-Participated in interview-related work for a Technology & Information course project.
-
----
-
-## 🎓 EDUCATION
-
-**Universiti Teknologi Malaysia**
-
-Computer Networks and Security with Honours
-
-<img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge"/>
-
-## 🏆 ACADEMIC ACHIEVEMENTS
-
-<img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎓 EDUCATION</h3>
+      <strong>Universiti Teknologi Malaysia</strong>
+      <br/>
+      <sub>Computer Networks and Security with Honours</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/BACHELOR_OF_COMPUTER_SCIENCE-8B5CF6?style=for-the-badge"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🏆 ACADEMIC ACHIEVEMENTS</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/MATRICULATION-CGPA%204.00-EC4899?style=for-the-badge"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MUET-BAND%204-06B6D4?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
