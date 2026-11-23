@@ -3,9 +3,6 @@
 <!-- ===================================================== -->
 
 <p align="center">
-</p> 
-
-<p align="center">
   <img src="./Tee Jia Xuan_ Cosmic Portfolio Banner.png" width="100%" alt="Tee Jia Xuan Cosmic Portfolio Banner"/>
 </p>
 
@@ -29,13 +26,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3"/>
 </p>
+
 <br>
 <br>
 
 <!-- ABOUT ME -->
+
 <p align="center">
   <img src="./assets/aboutme-stars.svg"
        width="100%"
@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/MODE-CREATIVE-C084FC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STATUS-EXPLORING%20∞-EC4899?style=for-the-badge"/>
 </p>
+
 <br>
 <br>
 <br>
@@ -90,15 +91,19 @@
   <b>Tools</b><br/>
   Git · GitHub · Visual Studio Code
 </p>
+
 <br>
 <br>
 <br>
+
 <!-- INTERESTS -->
 
 <h2 align="center">✦ AREAS OF INTEREST ✦</h2>
+
 <p align="center">
   <img src="./assets/cyber-network.svg" width="100%" alt="Cyber Network Animation"/>
 </p>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -121,6 +126,7 @@
     </td>
   </tr>
 </table>
+
 <br>
 <br>
 <br>
@@ -128,11 +134,13 @@
 <!-- BEYOND THE CODE -->
 
 <h2 align="center">✦ BEYOND THE CODE ✦</h2>
+
 <!-- MATRIX RAIN -->
 
 <p align="center">
   <img src="./matrix-rain.gif" width="100%" alt="Matrix Digital Rain"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/CyberX-Multimedia%20Committee-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
@@ -147,6 +155,7 @@
   Interested in the creative side of technology, digital media,
   and visual communication.
 </p>
+
 <br>
 <br>
 <br>
@@ -210,7 +219,6 @@
 </table>
 
 <br/>
-
 <br>
 <br>
 <br>
@@ -218,7 +226,7 @@
 <!-- EXPERIENCE -->
 
 <h2 align="center">✦ EXPERIENCE & ACTIVITIES ✦</h2>
-<p align="center">
+
 <p align="center">
   <img
     src="./assets/rpg-character.png"
@@ -226,7 +234,7 @@
     alt="Pixel RPG Character Profile"
   />
 </p>
-</p>
+
 <h3>🎓 NALI 2026 — New Academia Learning Innovation</h3>
 
 <p>
@@ -248,6 +256,7 @@
   Explored AI-assisted video creation, visual storytelling and creative
   digital content production.
 </p>
+
 <br>
 <br>
 <br>
@@ -274,6 +283,7 @@
     </td>
   </tr>
 </table>
+
 <br>
 <br>
 <br>
