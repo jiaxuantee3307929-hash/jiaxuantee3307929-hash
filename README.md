@@ -220,18 +220,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaxuantee3307929-hash&bg_color=09051B&color=C084FC&line=EC4899&point=67E8F9&area=true&hide_border=true"/>
 </p>
 
-<!-- PIXEL CAT + THANK YOU -->
+<!-- PIXEL CAT + DESCRIPTION -->
 
-<p align="center">
-  <img src="./pixel-cat.gif" width="85" alt="Pixel Cat" align="absmiddle"/>
-  <span style="font-size: 25px; font-weight: bold; color: #C084FC;">
-    THANK YOU!
-  </span>
-</p>
-
-<p align="center">
-  <sub>✦ A little explorer in the digital universe ✦</sub>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="150">
+      <img src="./pixel-cat.gif" width="120" alt="Pixel Cat"/>
+    </td>
+    <td align="left">
+      <h3>✦ A little explorer ✦</h3>
+      <sub>Exploring the digital universe...</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- CONNECT -->
 
@@ -257,6 +258,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jiaxuantee3307929-hash&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge"/>
 </p>
+
+<!-- THANK YOU -->
+
+<h2 align="center">
+  ✦ THANK YOU FOR VISITING! ✦
+</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
