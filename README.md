@@ -35,7 +35,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3"/>
 </p>
 <br>
-<br>
+
 <!-- ABOUT ME -->
 <p align="center">
   <img src="./assets/aboutme-stars.svg"
@@ -69,7 +69,10 @@
   <img src="https://img.shields.io/badge/MODE-CREATIVE-C084FC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STATUS-EXPLORING%20∞-EC4899?style=for-the-badge"/>
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <!-- SKILLS -->
 
 <h2 align="center">✦ SKILLS & TECHNOLOGIES ✦</h2>
