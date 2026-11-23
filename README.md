@@ -1,6 +1,6 @@
- <!-- ==========================================
-     TEE JIA XUAN | STARLIGHT CYBER 3.0
-     Colorful Interactive Developer Portfolio
+<!-- ==========================================
+    TEE JIA XUAN | STARLIGHT CYBER 3.0
+    Colorful Interactive Developer Portfolio
 =========================================== -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=800&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+NETWORKS+%26+SECURITY;EXPLORE.+INNOVATE.+CREATE." alt="Animated typing headline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=800&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+NETWORKS+%26+SECURITY;EXPLORE.+INNOVATE.+CREATE" alt="Animated typing headline"/>
 
 <br/>
 
@@ -51,6 +51,23 @@ Passionate about technology, curious about how digital systems work, and continu
 <img src="https://img.shields.io/badge/🎓_EDUCATION-UTM-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/💻_PROGRAMMING-C++_%7C_Java-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/🎨_ACTIVITY-CyberX_Multimedia_Committee-06B6D4?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<!-- NEW: CYBER STATUS DECORATION -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODE-CREATIVE-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-EXPLORING_∞-8B5CF6?style=for-the-badge"/>
+
+<br/>
+
+✦　⋆｡°✩　✧　🌌　✧　✩°｡⋆　✦
+
 </div>
 
 <br/>
@@ -135,7 +152,7 @@ Exploring data processing, databases and data infrastructure.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:06B6D4&height=3" width="100%"/>
 
- <!-- EXPERIENCE -->
+<!-- EXPERIENCE -->
 
 <h2 align="center">🎨 BEYOND THE CODE</h2>
 
@@ -210,6 +227,58 @@ My contribution included interview-related work.
 <div align="center">
 
 *More personal projects will be added as I continue developing my skills.*
+
+</div>
+
+<br/>
+
+<!-- NEW: EXPERIENCE & ACTIVITIES -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:EC4899,100:8B5CF6&height=4" width="100%"/>
+
+<h2 align="center">🌟 EXPERIENCE & ACTIVITIES</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-EVENT_EXPERIENCE-6366F1?style=for-the-badge"/>
+
+### 🎓 NALI 2026 — New Academia Learning Innovation
+
+Participated in an event visit and interviewed competition participants, exploring their innovative projects and experiences.
+
+<br/>
+
+<img src="https://img.shields.io/badge/02-HARDWARE_EXPERIENCE-06B6D4?style=for-the-badge"/>
+
+### 🖥️ PC Assembly
+
+Participated in a hands-on PC assembly activity, gaining practical exposure to computer hardware components and system assembly.
+
+<br/>
+
+<img src="https://img.shields.io/badge/03-AI_CREATIVE_EXPERIENCE-EC4899?style=for-the-badge"/>
+
+### 🤖 AI-Powered Creativity
+
+Experienced in using AI software for creative projects and participated in an AI video competition, exploring AI-assisted video creation and digital storytelling.
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=LEARN%20%E2%80%A2%20CREATE%20%E2%80%A2%20EXPLORE&fontColor=FFFFFF&fontSize=18" width="90%"/>
+
+</div>
+
+<br/>
+
+<!-- NEW: PIXEL COSMIC DECORATION -->
+
+<div align="center">
+
+✧･ﾟ: *✧･ﾟ:*　　🌠　　*:･ﾟ✧*:･ﾟ✧
+
+<sub>TRANSMITTING CURIOSITY · RECEIVING INSPIRATION · CREATING SOMETHING NEW</sub>
+
+✦　｡ﾟ☁️｡⋆｡ ﾟ☾ ﾟ｡⋆　🚀　⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁️ﾟ｡　✦
 
 </div>
 
@@ -303,6 +372,12 @@ English Proficiency
 **Stay Curious. Keep Creating. Never Stop Exploring.**
 
 <br/>
+
+<!-- NEW: PROFILE VISITOR COUNTER -->
+
+<img src="https://komarev.com/ghpvc/?username=jiaxuantee3307929-hash&style=for-the-badge&color=8B5CF6&label=PROFILE+EXPLORERS" alt="Profile Visitors"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:6366F1,65:EC4899,100:06B6D4&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=19&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Animated footer"/>
 
