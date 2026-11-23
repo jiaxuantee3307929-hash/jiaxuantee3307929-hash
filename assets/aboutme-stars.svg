@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="220"
+     viewBox="0 0 900 220">
+
+  <defs>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9ce8"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#8be9ff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Cosmic background -->
+  <rect width="900" height="220" fill="#100d25"/>
+
+  <!-- Twinkling stars -->
+  <g fill="#ffffff">
+    <circle cx="70" cy="35" r="2">
+      <animate attributeName="opacity" values=".2;1;.2"
+               dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="80" r="1.5">
+      <animate attributeName="opacity" values="1;.2;1"
+               dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="30" r="2">
+      <animate attributeName="opacity" values=".2;1;.2"
+               dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="65" r="1.5">
+      <animate attributeName="opacity" values="1;.2;1"
+               dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="35" r="2">
+      <animate attributeName="opacity" values=".2;1;.2"
+               dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="690" cy="75" r="1.5">
+      <animate attributeName="opacity" values="1;.2;1"
+               dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="35" r="2">
+      <animate attributeName="opacity" values=".2;1;.2"
+               dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="110" cy="170" r="2">
+      <animate attributeName="opacity" values="1;.2;1"
+               dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="185" r="1.5">
+      <animate attributeName="opacity" values=".2;1;.2"
+               dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="680" cy="175" r="2">
+      <animate attributeName="opacity" values="1;.2;1"
+               dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="155" r="1.5">
+      <animate attributeName="opacity" values=".2;1;.2"
+               dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Falling particles -->
+  <g fill="#b9a4ff">
+    <circle cx="150" cy="-10" r="2">
+      <animate attributeName="cy" from="-10" to="230"
+               dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="370" cy="-30" r="1.5">
+      <animate attributeName="cy" from="-30" to="230"
+               dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="-15" r="2">
+      <animate attributeName="cy" from="-15" to="230"
+               dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="-25" r="1.5">
+      <animate attributeName="cy" from="-25" to="230"
+               dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Decorative stars -->
+  <g fill="#ffb7ed" filter="url(#glow)">
+    <path d="M450 25 L454 39 L468 43 L454 47 L450 61 L446 47 L432 43 L446 39Z">
+      <animate attributeName="opacity" values=".4;1;.4"
+               dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M90 105 L93 114 L102 117 L93 120 L90 129 L87 120 L78 117 L87 114Z"/>
+    <path d="M810 100 L813 109 L822 112 L813 115 L810 124 L807 115 L798 112 L807 109Z"/>
+  </g>
+
+  <!-- Main title -->
+  <text x="450" y="125"
+        text-anchor="middle"
+        font-family="Verdana, sans-serif"
+        font-size="52"
+        font-weight="bold"
+        letter-spacing="9"
+        fill="url(#title)"
+        filter="url(#glow)">
+    ABOUT ME
+  </text>
+
+  <path d="M290 150 H610"
+        stroke="#a78bff"
+        stroke-width="1"
+        opacity=".7"/>
+
+  <text x="450" y="180"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="11"
+        letter-spacing="4"
+        fill="#b9a4ff">
+    A LITTLE UNIVERSE OF MY OWN
+  </text>
+
+</svg>
