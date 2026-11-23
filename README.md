@@ -155,7 +155,9 @@
 
 <h2 align="center">✦ ACADEMIC & LEARNING JOURNEY ✦</h2>
 <p align="center">
-  <img src="./assets/orbit-planet.svg" width="210" alt="Orbit Planet Animation"/>
+<img src="./assets/orbit-planet.svg?v=2"
+     width="100%"
+     alt="Learning Orbit"/>
 </p>
 
 <table align="center">
