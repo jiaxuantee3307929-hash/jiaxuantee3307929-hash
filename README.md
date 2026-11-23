@@ -1,77 +1,101 @@
-<!-- =====================================================
-     TEE JIA XUAN | GITHUB PROFILE
-     CYBER IDENTITY — DARK DIGITAL PORTFOLIO
-====================================================== -->
+<!-- ==================================================
+     TEE JIA XUAN
+     CYBER TECH PORTFOLIO
+     Midnight Blue | Electric Cyan | Violet
+=================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=12" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=450&lines=HELLO%2C+WORLD.;WELCOME+TO+MY+DIGITAL+SPACE.;INITIALIZING+MY+TECH+JOURNEY..." />
+<img src="assets/cyber-banner.png" width="100%" alt="Cyber Tech Landscape Banner"/>
 
 <br/>
 
 # TEE JIA XUAN
 
-### `COMPUTER SCIENCE STUDENT`
+### COMPUTER SCIENCE UNDERGRADUATE
 
-<p>
-  <img src="https://img.shields.io/badge/NETWORKS-AND-SECURITY-00E5FF?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/BASED-IN-MALAYSIA-8B5CF6?style=flat-square&labelColor=0D1117" />
-</p>
-
-**Exploring technology. Understanding systems. Building possibilities.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=EXPLORING+THE+DIGITAL+WORLD;COMPUTER+NETWORKS+%26+SECURITY;LEARNING+%7C+BUILDING+%7C+EVOLVING;TURNING+CURIOSITY+INTO+POSSIBILITIES" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/jiaxuantee33079392-hash">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<a href="https://github.com/jiaxuantee3307929-hash">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="75%" />
+`NETWORKS` &nbsp; ✦ &nbsp; `SECURITY` &nbsp; ✦ &nbsp; `COMPUTER SCIENCE`
 
 </div>
 
-<br/>
-
-## 01 / ABOUT ME
-
-```text
-$ whoami
-
-Name       : Tee Jia Xuan
-University : Universiti Teknologi Malaysia
-Degree     : B.Comp.Sc. (Computer Networks and Security)
-Status     : Undergraduate Student
-Location   : Malaysia
-```
-
-Hi! I'm **Tee Jia Xuan**, a Computer Science undergraduate at **Universiti Teknologi Malaysia (UTM)**, pursuing a Bachelor of Computer Science (Computer Networks and Security) with Honours.
-
-I'm interested in understanding how digital systems communicate, operate, and stay secure.
-
-Currently, I'm building my programming foundations while exploring the broader world of computer science.
-
-My approach is simple:
-
-> Stay curious, keep learning, and turn knowledge into something meaningful.
-
-<br/>
-
-## 02 / TECHNOLOGY STACK
+---
 
 <div align="center">
 
-### PROGRAMMING
+# ✦ BEYOND THE CODE ✦
 
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+*Exploring technology, understanding systems, and discovering what's possible.*
+
+</div>
+
+## ◈ 01 — ABOUT ME
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hello, I'm Tee Jia Xuan!
+
+I'm a Computer Science undergraduate at **Universiti Teknologi Malaysia (UTM)**, pursuing a **Bachelor of Computer Science (Computer Networks and Security) with Honours**.
+
+I'm interested in understanding how digital systems communicate, how networks operate, and how information can be protected in an increasingly connected world.
+
+Currently, I'm strengthening my programming foundations and exploring different areas of computing.
+
+**A little about my journey:**
+
+- 🎓 Computer Science undergraduate at UTM
+- 💻 Currently learning C++
+- 🌐 Interested in Computer Networks
+- 🔐 Exploring Cybersecurity
+- 🤖 Curious about Artificial Intelligence
+- 📊 Interested in Data Engineering
+
+</td>
+<td width="40%" valign="top">
+
+### QUICK PROFILE
+
+| | |
+|:---|:---|
+| **Name** | Tee Jia Xuan |
+| **Location** | Malaysia 🇲🇾 |
+| **University** | UTM |
+| **Degree** | Computer Science |
+| **Specialisation** | Networks & Security |
+| **Language** | C++ |
+| **Status** | Undergraduate |
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-38BDF8?style=for-the-badge&labelColor=172554" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ 02 — TECHNICAL UNIVERSE
+
+<div align="center">
+
+### PROGRAMMING LANGUAGE
+
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++ icon"/>
 
 **C++ — Currently Learning**
 
@@ -83,20 +107,20 @@ My approach is simple:
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/01-00E5FF?style=flat-square&labelColor=0D1117" />
+🌐
 
-### 🌐 NETWORKING
+### COMPUTER NETWORKS
 
-Computer Networks  
 Network Architecture  
-Communication Protocols
+Communication Protocols  
+Network Infrastructure
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/02-8B5CF6?style=flat-square&labelColor=0D1117" />
+🔐
 
-### 🔐 CYBERSECURITY
+### CYBERSECURITY
 
 Information Security  
 Network Security  
@@ -107,9 +131,9 @@ Digital Protection
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/03-00E5FF?style=flat-square&labelColor=0D1117" />
+🤖
 
-### 🤖 ARTIFICIAL INTELLIGENCE
+### ARTIFICIAL INTELLIGENCE
 
 Machine Learning  
 Intelligent Systems  
@@ -118,9 +142,9 @@ Emerging Technologies
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/04-8B5CF6?style=flat-square&labelColor=0D1117" />
+📊
 
-### 📊 DATA ENGINEERING
+### DATA ENGINEERING
 
 Database Systems  
 Data Processing  
@@ -130,128 +154,159 @@ Data Infrastructure
 </tr>
 </table>
 
+*These are areas of interest and exploration, not claims of professional proficiency.*
+
 </div>
 
-<br/>
+---
 
-## 03 / RESEARCH INTERESTS
+## ◈ 03 — RESEARCH & EXPLORATION
 
-Areas of computing that I'm interested in exploring:
+I'm particularly curious about the technologies that power our connected world.
 
-- **Computer Networks** — Understanding how devices and systems communicate.
-- **Cybersecurity** — Exploring the principles of protecting digital information.
-- **Artificial Intelligence** — Learning about intelligent computational systems.
-- **Data Engineering** — Understanding how data is stored, processed, and managed.
-- **Software Engineering** — Exploring the development of reliable software solutions.
+| Research Area | Exploration |
+|:---|:---|
+| 🌐 Computer Networks | How devices communicate and exchange information |
+| 🔐 Cybersecurity | Principles of protecting digital information |
+| 🤖 Artificial Intelligence | Intelligent systems and machine learning |
+| 📊 Data Engineering | Data storage, processing and management |
+| 💻 Software Engineering | Designing and developing reliable software |
 
-<br/>
+---
 
-## 04 / SELECTED WORKS
+## ◈ 04 — FEATURED WORKS
 
 <div align="center">
 
-### THE PORTFOLIO IS UNDER CONSTRUCTION.
+### MY LEARNING JOURNEY
 
-`LEARNING` → `EXPERIMENTING` → `BUILDING` → `IMPROVING`
+`DISCOVER` → `LEARN` → `EXPERIMENT` → `CREATE`
 
 </div>
 
-I'm gradually developing my technical portfolio through academic learning and independent exploration.
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 C++ DEVELOPMENT
 
-**Status:** Learning
+**Status:** Currently Learning
 
-Developing programming fundamentals and exploring computational problem-solving.
+Building programming fundamentals and developing computational thinking through C++.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 NETWORKING & SECURITY
+### 🌐 NETWORKS & SECURITY
 
 **Status:** Exploring
 
-Building foundational knowledge in computer networks and cybersecurity.
+Developing foundational knowledge in computer networks and information security.
 
 </td>
 </tr>
 </table>
 
-*Individual project repositories will be featured here as they become available.*
+### 📁 Academic Repository
 
-<br/>
+<a href="https://github.com/jiaxuantee3307929-hash/Technology-and-information-course-section02-semester1">
 
-## 05 / EDUCATION
+**Technology & Information Course — Semester 1**
+
+</a>
+
+A repository containing course-related materials, assignment documentation and supporting files.
+
+[VIEW REPOSITORY →](https://github.com/jiaxuantee3307929-hash/Technology-and-information-course-section02-semester1)
+
+*More personal programming projects will be featured here as they become available.*
+
+---
+
+## ◈ 05 — EDUCATION & ACHIEVEMENTS
 
 <div align="center">
 
-### UNIVERSITI TEKNOLOGI MALAYSIA
+### 🎓 UNIVERSITI TEKNOLOGI MALAYSIA
 
 **Bachelor of Computer Science (Computer Networks and Security) with Honours**
 
-Faculty of Computing
-
-`JOHOR, MALAYSIA`
+Faculty of Computing  
+Johor, Malaysia
 
 </div>
 
 ### Academic Background
 
-| Qualification | Achievement |
-|:---|:---|
-| Matriculation | CGPA 4.00 |
-| MUET | Band 4 |
+<table>
+<tr>
+<th>Qualification</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td>Matriculation</td>
+<td>CGPA 4.00</td>
+</tr>
+<tr>
+<td>MUET</td>
+<td>Band 4</td>
+</tr>
+</table>
 
-<br/>
+### Certifications & Recognition
 
-## 06 / GITHUB ANALYTICS
+*More academic achievements and verified certifications will be added as my journey progresses.*
+
+---
+
+## ◈ 06 — GITHUB ANALYTICS
 
 <div align="center">
 
 ### MY DEVELOPMENT JOURNEY
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jiaxuantee33079392-hash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jiaxuantee3307929-hash&show_icons=true&hide_border=true&bg_color=172554,312E81&title_color=7DD3FC&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github&cache_seconds=86400" alt="GitHub Statistics"/>
 
 <br/><br/>
 
 ### LANGUAGE DISTRIBUTION
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee33079392-hash&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantee3307929-hash&layout=compact&hide_border=true&bg_color=172554,312E81&title_color=7DD3FC&text_color=E2E8F0&langs_count=6&cache_seconds=86400" alt="Most Used Languages"/>
 
 </div>
 
-<br/>
+---
 
-## 07 / CONNECT WITH ME
+## ◈ 07 — LET'S CONNECT
 
 <div align="center">
 
-**Have something interesting to share? Let's connect.**
+### OPEN TO CONNECTIONS & NEW IDEAS
+
+I'm always interested in learning from others, exchanging ideas and connecting with people who share an interest in technology.
 
 <br/>
 
-<a href="https://github.com/jiaxuantee33079392-hash">
-<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+<a href="https://github.com/jiaxuantee3307929-hash">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tee-jia-xuan-66b616448/">
-<img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-`MALAYSIA` &nbsp; · &nbsp; `COMPUTER SCIENCE` &nbsp; · &nbsp; `CONTINUOUS LEARNING`
+**MALAYSIA 🇲🇾**
+
+*Curiosity is the beginning of every great discovery.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jiaxuantee33079392-hash&style=flat-square&color=00E5FF&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=jiaxuantee3307929-hash&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:00E5FF&height=120&section=footer" width="100%" />
+### THANK YOU FOR VISITING MY DIGITAL SPACE ✦
 
 </div>
