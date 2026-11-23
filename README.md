@@ -87,7 +87,9 @@
 <!-- INTERESTS -->
 
 <h2 align="center">✦ AREAS OF INTEREST ✦</h2>
-
+<p align="center">
+  <img src="./assets/cyber-network.svg" width="100%" alt="Cyber Network Animation"/>
+</p>
 <table align="center">
   <tr>
     <td align="center" width="50%">
